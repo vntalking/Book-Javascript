@@ -1,6 +1,7 @@
 # Ebook: Javascript từ cơ bản tới nâng cao<br/>
 ### Từng bước làm chủ ngôn ngữ lập trình Javascript (A-Z)
-![Sách học Javascript tiếng việt](https://vntalking.com/wp-content/uploads/2021/05/Javascript_cover-3D-N1.png){:height="236px" width="236px"}
+<img tag="Sách học Javascript tiếng việt" src="https://vntalking.com/wp-content/uploads/2021/05/Javascript_cover-3D-N1.png" width="500">
+
 Dự án sách được thực hiện bởi [VNTALKING.COM](https://vntalking.com)<br/>
 **Nội dung cuốn sách:**<br/>
 1. Cú pháp Javascript cơ bản
